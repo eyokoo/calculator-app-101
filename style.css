@@ -3,3 +3,17 @@ body {
   width: 50%;
   height: 75%;
 }
+
+input{
+  display:flex;
+}
+
+.calculator{
+  background:pink;
+  padding: 30px;
+  border:solid;
+}
+
+button{
+  background-color:lavender;
+}
